@@ -16,9 +16,9 @@ La aplicación debe cumplir las siguientes normas:
 
 **Costos de Reserva** 
 
-**Cancha Sintética:** $40.000 por hora.
+**Cancha Sintética:** $40.000 por hora. (Tarifa nocturna $45.000 después de las 18:00)
 
-**Cancha Vóley Playa:** $50.000 por hora.
+**Cancha Vóley Playa:** $50.000 por hora. (Tarifa nocturna $55.000 después de las 18:00)
 
 **Datos del Cliente:** Para realizar una reserva, el cliente debe ingresar su nombre, número de identificación y número de celular. 
 
