@@ -42,7 +42,7 @@ Diseñar e implementar una aplicación que permita gestionar la reserva de canch
    
 3. Para hacer la reserva se deben ingresar los datos del cliente (ustedes definen la información).
    
-4. La aplicación debe ser implementada usando el paradigma de programación orientada a objetos y deben usar herencia para al menos una clase, debe tener atributos públicos y privades y polimorfismo (sobreescritura y sobrecarga)
+4. La aplicación debe ser implementada usando el paradigma de programación orientada a objetos y deben usar herencia para al menos una clase, debe tener atributos públicos y privados y polimorfismo (sobreescritura y sobrecarga)
 
 5. El código debe estar debidamente documentado y comentado. Revise los lineamientos de la guía PEP8 para hacer la documentación y los comentarios.
 
